@@ -1,0 +1,6 @@
+Nome,Descricao,Valor,DataVencimento,UsuarioId
+"Conta de Luz","Conta mensal de energia elétrica",150.50,"15/09/2024",1
+"Conta de Água","Conta mensal de água",75.25,"20/09/2024",1
+"Internet","Serviço de internet mensal",99.99,"10/09/2024",2
+"Aluguel","Pagamento mensal do aluguel",1200.00,"05/09/2024",3
+"Telefone","Conta de telefone celular",49.90,"25/09/2024",1
