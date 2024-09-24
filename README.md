@@ -118,12 +118,10 @@ Deixei um arquivo de exemplo em `resource/docs`.
 ```
 .
 ├── Dockerfile
-├── HELP.md
 ├── README.md
 ├── docker-compose.yml
 ├── mvnw
 ├── mvnw.cmd
-├── pagamentos-spring.iml
 ├── pom.xml
 ├── src
 │   ├── main
